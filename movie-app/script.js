@@ -1,5 +1,5 @@
 const API_URL = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=&page=1' // Add api key into api_key to work
-// https://www.themoviedb.org/settings/api to get my api key
+// https://www.themoviedb.org/settings/api to get api key
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
 const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=325b97fad2038960a90698006345dc60&query="'
 
